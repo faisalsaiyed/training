@@ -1,5 +1,0 @@
-This is the text file
-I want to commit to git hub
-please let me do this
-please
-please
