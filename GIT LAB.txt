@@ -1,5 +1,0 @@
-GIT Homework
-Week 3
-Dragging and Dropping
-Committing
-and Pulling
