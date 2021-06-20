@@ -1,0 +1,43 @@
+Git Bash - Git Push
+
+uninstall git bash
+restart your computer
+install git bash, select native windows secure channel library at https transport backend
+installed gitbash
+
+go to C/Users/"your_user_name"/create a folder(e.g. data)
+so the path will be like C/Users/"your_user_name"/data
+
+launch git bash
+type pwd - it will show you the path: it will be like C/Users/"your_user_name"
+type cd data (you created data folder), you will be now in that directory
+to check again, type pwd - it will show the path - C/Users/"your_user_name"/data
+(go to github.com and copy your repo link)
+
+type git clone and paste your link
+like: git clone https://github.com/"username"/"reponame".git
+(It will be cloning and you will see some lines and "done" at the end of the lines.
+now you can see the folder matching with your repo in data folder
+
+type cd "folder name" (new folder after cloning in data folder)
+in my case it is: cd training/
+
+make sure again with command pwd - it will show you the path C/Users/"your_user_name"/data/"new folder name"
+
+now you can use these commands
+echo "type here some message" > filename (enter)
+
+git status (enter) (you will see the file name in red font)
+
+git add filename (enter) (to add the file)
+
+git status (enter) (you will see the file name in green font)
+
+git commit -m "any message" (enter)
+
+git push (worked for me, no need to use command prompt or use config command)
+
+try this and reply.
+
+
+ 
