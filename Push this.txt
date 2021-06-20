@@ -1,0 +1,4 @@
+I have cloned my repository and I am now
+trying push this file by making a text file in local repo and then push it.
+I hope it will work cuz I tried with echo command and it worked.
+So lets push it.
